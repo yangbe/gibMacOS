@@ -1,5 +1,6 @@
-**How to Use:** Double click on the gibMacOS.command file.
-By default, you will see PublicRelease options for download. Leave it as is for the PR options.
+**How to Use:** </br>
+Double click on the gibMacOS.command file.</br>
+By default, you will see PublicRelease options for download. Leave it as is for the PR options.</br>
 To get the Public beta instead you must first Change Catalog to Public.
 
 Py2/py3 script that can download macOS components direct from Apple
