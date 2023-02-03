@@ -1,5 +1,4 @@
-**How to Use**
-Double click on the gibMacOS.command file.
+**How to Use:** Double click on the gibMacOS.command file.
 By default, you will see PublicRelease options for download. Leave it as is for the PR options.
 To get the Public beta instead you must first Change Catalog to Public.
 
