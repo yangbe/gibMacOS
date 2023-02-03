@@ -1,3 +1,7 @@
+Double click on the gibMacOS.command file.
+By default, you will see PublicRelease options for download. Leave it as is for the PR options.
+To get the Public beta instead you must first Change Catalog to Public.
+
 Py2/py3 script that can download macOS components direct from Apple
 
 Can also now build Internet Recovery USB installers from Windows using [dd](http://www.chrysocome.net/dd) and [7zip](https://www.7-zip.org/download.html).
